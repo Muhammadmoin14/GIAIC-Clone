@@ -17,7 +17,7 @@ function Header() {
         <Link href="/course"><li>Course</li></Link>
         </ul>
   </div>
-  )
+  );
 }
 
 export default Header
